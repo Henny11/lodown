@@ -1,0 +1,22 @@
+{
+  "name": "lowdown-henny11",
+  "version": "1.0.1",
+  "description": "My own NPM library",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "istanbul cover _mocha -- test/ -R spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Henny11/lodown.git"
+  },
+  "author": "Henok Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Henny11/lodown/issues"
+  },
+  "homepage": "https://github.com/Henny11/lodown#readme"
+}
